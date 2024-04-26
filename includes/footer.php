@@ -1,7 +1,25 @@
-<!--scripts-->
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+<!-- Pie de pagina (footer) -->
+<footer class="seccion-oscura d-flex flex-column align-items-center justify-content-center">
+  <div class="iconos-redes-sociales d-flex flex-wrap align-items-center justify-content-center">
+    <a href="https://wa.me/573202947007" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-whatsapp"></i>
+    </a>
+    <a href="https://github.com/JunniorRavelo" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-github"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/jrravelo/" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-linkedin"></i>
+    </a>
+    <a href="mailto:dev.jrsantiagoravelo@gmail.com" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-envelope"></i>
+    </a>
+  </div>
+  <div class="derechos-de-autor">By Junnior Santiago Ravelo Velasco (2024) &#169;</div>
 
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+<script src="/script.js"></script>
 </body>
+
 </html>
