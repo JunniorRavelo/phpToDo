@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>index</title>
+    <title>Jr Ravelo | PHP To Do</title>
     <!--Bootstrap-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 
@@ -17,7 +17,7 @@
 
 <nav class="navbar navbar-dark bg-dark">
     <div class="container">
-        <a href="index.php" class="navbar-brand">PHP MYSQL CRUD</a>
+        <a href="index.php" class="navbar-brand">PHP | Things to do</a>
     </div>
 
 </nav>
