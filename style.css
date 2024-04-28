@@ -1,0 +1,33 @@
+.navbar {
+    background-color: rgb(27, 27, 50);
+}
+
+.navbar-brand {
+    color: white;
+}
+
+/* Boton x de borrar Span | Alert */
+.alert{
+    color: aqua;
+}
+.close {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+.h1{
+    color: white;
+}
+
+/* Boton central de ir al portafolio */
+.irBtn {
+    position: fixed;
+    bottom: 20px;
+    /* Ajusta la distancia desde el borde inferior */
+    left: 50%;
+    /* Coloca el botón en el centro horizontal */
+    transform: translateX(-50%);
+    /* Centra el botón horizontalmente */
+    z-index: 9999;
+    /* Asegura que el botón esté por encima de otros elementos */
+}

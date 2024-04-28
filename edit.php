@@ -43,9 +43,7 @@ if (isset($_POST['update'])) { // Comprueba si se ha enviado el formulario para 
                     </div>
 
                     <div class="form-group">
-                        <textarea name="description" rows="2" class="form-control" placeholder="Update Description">
-                            <?= $description ?>
-                        </textarea>
+                        <textarea name="description" rows="2" class="form-control" id="descriptionTextarea" placeholder="Update Description"><?= $description ?></textarea>
                     </div>
 
                     <button class="btn-success" name="update">
