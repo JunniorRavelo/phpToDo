@@ -1,6 +1,8 @@
-//Boton ir al portafolio
-document.getElementById("volverBtn").addEventListener("click", function() {
-    window.location.href = "https://jrravelo.site/";
+//Cerrar span
+// Agregamos un evento de clic al botón de cierre
+document.querySelector('.alert .close').addEventListener('click', function() {
+    // Ocultamos la alerta
+    document.querySelector('.alert').style.display = 'none';
 });
 
 
