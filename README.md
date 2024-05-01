@@ -1,7 +1,3 @@
-# phpToDo
- 
-**README**
-
 # PHP Task Management Project
 
 This project is a simple web application developed in PHP to manage tasks. It provides basic functionalities such as adding, editing, and deleting tasks. It is a useful tool for organizing and managing your daily activities, whether on a personal or professional level.
